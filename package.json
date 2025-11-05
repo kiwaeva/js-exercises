@@ -1,0 +1,23 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwaeva/js-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiwaeva/js-exercises/issues"
+  },
+  "homepage": "https://github.com/kiwaeva/js-exercises#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
